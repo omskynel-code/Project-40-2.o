@@ -1,0 +1,6 @@
+print("Welcome to my world darlings!!!")
+print(13)
+print("Hi guys \n")
+print("Cookies",7)
+print("Amazing","World")
+print("Hello and welcome ", end= ":)")
